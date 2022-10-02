@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<GridPane fx:id="rootGridPane" style="-fx-background-color: #D9F7F0;" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.internshala.connectfour.Controller">
+    <columnConstraints>
+        <ColumnConstraints  />
+        <ColumnConstraints maxWidth="268.0" minWidth="206.0" prefWidth="206.0" />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints minHeight="10.0" prefHeight="26.0" />
+        <RowConstraints />
+    </rowConstraints>
+   <children>
+      <Pane fx:id="myPane1" GridPane.columnSpan="2" />
+      <Pane fx:id="insertedDiscsPane" prefHeight="400.0" prefWidth="200.0" GridPane.rowIndex="1" />
+      <VBox fx:id="myVbox" style="-fx-background-color: #2B3B4C;" GridPane.columnIndex="1" GridPane.rowIndex="1">
+         <children>
+            <Region fx:id="myRegion1" prefHeight="168.0" prefWidth="273.0" />
+            <Label fx:id="playerNameLabel" alignment="CENTER" prefHeight="46.0" prefWidth="273.0" text="Player one" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="29.0" />
+               </font>
+            </Label>
+            <Label fx:id="Player2" alignment="CENTER" prefHeight="27.0" prefWidth="273.0" text="Turn" textFill="WHITE">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Label>
+            <Region fx:id="myRegion2" prefHeight="185.0" prefWidth="273.0" />
+         </children>
+      </VBox>
+   </children>
+</GridPane>
