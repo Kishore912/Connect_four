@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishore912
 - 👀 I’m interested in software development and cloud 
-- 🌱 I’m currently learning java and cloud computing
+- 🌱 I’m currently learning Datascience
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me via email : kishorekumar7286@gmail.com
 
