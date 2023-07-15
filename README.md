@@ -1,1 +1,2 @@
-![2023-07-10](https://github.com/Kishore912/Kishore912/assets/114867072/cb07aef1-d67b-40c8-9353-84d9a8e9f92a)
+Connect four is a two-player connection rack game, in which the players choose a color and then take turns dropping colored tokens into a six-row, seven-column vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own tokens. Connect Four is a solved game. The first player can always win by playing the right moves.
+![2023-07-15](https://github.com/Kishore912/Kishore912/assets/114867072/413bed0b-81a8-42ec-8330-2e84e4470fc3)
