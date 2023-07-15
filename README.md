@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Kishore912
-- 👀 I’m interested in software development and cloud 
-- 🌱 I’m currently learning Datascience
-- 💞️ I’m looking to collaborate on internships
-- 📫 How to reach me via email : kishorekumar7286@gmail.com
-
-<!---
-Kishore912/Kishore912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![2023-07-10](https://github.com/Kishore912/Kishore912/assets/114867072/cb07aef1-d67b-40c8-9353-84d9a8e9f92a)
